@@ -44,5 +44,5 @@ We may update this Privacy Policy from time to time to reflect new app features 
 
 ### 9. Contact Us
 If you have any questions or concerns about this Privacy Policy or Qalbora's privacy practices, please contact us at:
-* **Developer / Publisher:** [Kasvix]
-* **Email:** [kajal4works@gmail.com]
+* **Developer / Publisher:** Kasvix
+* **Email:** kajal4works@gmail.com
