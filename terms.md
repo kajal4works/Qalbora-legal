@@ -43,5 +43,5 @@ If you downloaded Qalbora from the Apple App Store, you acknowledge and agree th
 
 ### 8. Contact Information
 For support, feedback, or questions regarding these Terms, please contact us at:
-* **Developer / Publisher:** [Kasvix]
-* **Email:** [kajal4works@gmail.com]
+* **Developer / Publisher:** Kasvix
+* **Email:** kajal4works@gmail.com
